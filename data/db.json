@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Smartphone XYZ",
-      "price": 2500.50
+      "price": 2500.5
     },
     {
       "id": 2,
@@ -13,12 +13,12 @@
     {
       "id": 3,
       "name": "Mouse Sem Fio Ergonômico",
-      "price": 125.00
+      "price": 125
     },
     {
       "id": 4,
       "name": "Monitor Ultra HD 27'",
-      "price": 1800.00
+      "price": 1800
     },
     {
       "id": 5,
