@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone XYZ",
+      "price": 2500.50
+    },
+    {
+      "id": 2,
+      "name": "Notebook Gamer Pro",
+      "price": 5899.99
+    },
+    {
+      "id": 3,
+      "name": "Mouse Sem Fio Ergonômico",
+      "price": 125.00
+    },
+    {
+      "id": 4,
+      "name": "Monitor Ultra HD 27'",
+      "price": 1800.00
+    },
+    {
+      "id": 5,
+      "name": "Teclado Mecânico RGB",
+      "price": 450.75
+    }
+  ]
+}
